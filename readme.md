@@ -2,7 +2,11 @@
 
 Data collection, cleaning, and model training
 
+## Goal
+To create a way to automatically classify and discover Youtube channels that may be of interest to fans of YT channels that combat various forms of online activity: CoffeeZilla, Tom Nash, and others. 
+
 ## The Potential Fake Guru List
+The following is a list of Youtube creator channels that may or may not match the classification known as "fake guru" which is based on a shortlist of niche content producers. Names are in this list if the trained deep learning model classified a majority of video titles as matching a "fake guru" pattern. Not all creators here are fake gurus, this is because the convention used by fake gurus to name their videos is a sort of standard across Youtube (ie Clickbait titles) so it's a challenge to seperate click-bait from fake guru. :) Also, some people that appeal to young people and flash cars may not be considered fake gurus by the general definition of "overpriced mml seminars etc." but may match the lifestyle/brand in other ways. 
 
 [the list](sorted.md)
 
