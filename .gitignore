@@ -1,0 +1,9 @@
+kaggle_data/
+venv/
+data/
+.vscode/
+nonguru_yt/
+notebooks/
+output/
+video_lists/
+results/

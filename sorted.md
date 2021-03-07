@@ -1,0 +1,544 @@
+* 9.667373309000016,you suck at cooking
+* 9.667373309000016,tanner braungardt
+* 9.666243000000005,james charles
+* 9.572914868,theellenshow
+* 9.572914868,foxsearchlight
+* 9.572914868,clothesencounters
+* 9.545376911000002,smosh
+* 9.198728402,iisuperwomanii
+* 8.624566966999996,the slow mo guys
+* 8.108911565999993,binging with babish
+* 8.047677948000006,laura lee
+* 8.017948310000008,the graham norton show
+* 7.955410939999995,tom scott
+* 7.890645091000008,insider
+* 7.885772988000004,vox
+* 7.654960905000006,jacksfilms
+* 7.343510246000013,vogue
+* 7.343055977999998,nigahiga
+* 7.248727341000003,itsalexclark
+* 7.093353590000008,asapscience
+* 7.022707749000004,tasty
+* 6.935063519999995,hellthyjunkfood
+* 6.861967713999997,first we feast
+* 6.817290152000001,reaction time
+* 6.817290152000001,matt stonie
+* 6.817290152000001,kylie minogue
+* 6.592357681000005,good mythical morning
+* 6.4318261099999985,the late late show with james corden
+* 6.287880178999994,the voice
+* 6.222451424999994,laurdiy
+* 6.179217780999999,ptxofficial
+* 6.015748318000002,refinery29
+* 6.007580494000005,solid gold aquatics
+* 6.007580494000005,guava juice
+* 5.946196311999994,mobo awards
+* 5.946196311999994,complex
+* 5.932631727999997,supercarlinbrothers
+* 5.856113994999999,simon's cat
+* 5.856113994999999,remymavevo
+* 5.788691330999997,explosmentertainment
+* 5.730788031000001,marques brownlee
+* 5.605072659999997,michelle khare
+* 5.5875432700000065,business insider
+* 5.574901583000001,useless duck company
+* 5.574901583000001,marie mcgann
+* 5.574901583000001,bob przybylo
+* 5.574901583000001,adult swim
+* 5.558752323999995,amber scholl
+* 5.543136369000005,ignoramusky
+* 5.543136369000005,fox 17 wxmi
+* 5.543136369000005,britain's got talent
+* 5.520539353000001,the school of life
+* 5.473101831000003,corinne leigh
+* 5.473101831000003,colinfurze
+* 5.473101831000003,beyond the trailer
+* 5.327314002000006,tati
+* 5.313465870000003,marco reps
+* 5.313465870000003,calumscottvevo
+* 5.308251509000001,junskitchen
+* 5.197230188000002,legofreedom1
+* 5.197230188000002,great big story
+* 5.117127301000004,the royal family
+* 5.117127301000004,nbc sports
+* 5.025327605999996,team edge
+* 5.025327605999996,beckvevo
+* 5.004802428,studio c
+* 4.907746801,petersripol
+* 4.821222516,ytn news
+* 4.821222516,tyler oakley
+* 4.821222516,doug jones for senate
+* 4.821222516,buttered side down
+* 4.813093194999999,troyesivanvevo
+* 4.778164988999996,e! entertainment
+* 4.758873527000002,oregon
+* 4.758873527000002,kitty hawk
+* 4.758873527000002,k-music
+* 4.758873527000002,good mythical more
+* 4.758873527000002,carli bybel
+* 4.695223736000001,vlogbrothers
+* 4.686477804999998,full frontal with samantha bee
+* 4.662358679999997,pony syndrome
+* 4.662358679999997,max skipper
+* 4.662358679999997,kathleenlights
+* 4.662358679999997,edward avila
+* 4.659008521999995,simone giertz
+* 4.633020258000004,kelly clarkson
+* 4.488660404999996,jennamarbles
+* 4.455782243000002,marzia
+* 4.443995256999998,seanpaulvevo
+* 4.443995256999998,mittromney
+* 4.443995256999998,julien solomita
+* 4.443995256999998,crusoe the celebrity dachshund
+* 4.443995256999998,cobra kai
+* 4.3367529189999985,lauv
+* 4.287669059999997,linus tech tips
+* 4.287669059999997,ifc
+* 4.287669059999997,fx networks
+* 4.287669059999997,channel awesome
+* 4.261603968000001,the verge
+* 4.208780566,as/is
+* 4.196559970000003,hannah stocking
+* 4.136658058999996,shoshana bean
+* 4.136658058999996,open road films
+* 4.136658058999996,martin garrix
+* 4.136658058999996,inside edition
+* 4.136658058999996,5fdpvevo
+* 4.116483802,unbox therapy
+* 4.112975447000003,lol network
+* 4.086453775000001,lucas the spider
+* 4.083360608999999,how to cake it
+* 4.053947250999997,siavevo
+* 4.051689852999999,papa jake
+* 4.051689852999999,drinkbodyarmor
+* 4.025803795,lucas and marcus
+* 4.025803795,cimorelli
+* 4.025803795,brainfootv
+* 3.9842443190000005,anwar jibawi
+* 3.941007767999996,will smith
+* 3.941007767999996,peaceful cuisine
+* 3.941007767999996,mgm
+* 3.909391870000001,entertainment tonight
+* 3.8439372710000006,movie munchies
+* 3.8439372710000006,matthias
+* 3.835385262999999,faze rug
+* 3.8190519990000014,red bull
+* 3.785746718000001,buzzfeed celeb
+* 3.7654372,kyle gunderson
+* 3.7654372,david guetta
+* 3.7654372,cicigoodies2011
+* 3.742330555000001,john campea
+* 3.728789754000001,doug demuro
+* 3.716099416000003,lastweektonight
+* 3.688720132999998,strictly dumpling
+* 3.688720132999998,halfway anywhere
+* 3.6545522619999984,damonandjo
+* 3.6472059439999986,jeffreestar
+* 3.6462584560000004,liza koshy
+* 3.6331886310000003,tbs
+* 3.555445172999999,grav3yardgirl
+* 3.5497611310000003,william osman
+* 3.5367925700000002,mike boyd
+* 3.5032974239999994,abroad in japan
+* 3.486621472000001,clash royale
+* 3.4622533489999965,shawnmendesvevo
+* 3.4622533489999965,nasa jet propulsion laboratory
+* 3.40943317,tia mowry's quick fix
+* 3.40943317,carrieunderwoodvevo
+* 3.40943317,brashern
+* 3.3840637080000016,klossy
+* 3.3487742859999985,brad mondo
+* 3.345154321999998,dallmyd
+* 3.3360460009999984,nerdwriter1
+* 3.300272091000001,hevesh5
+* 3.2941094279999987,jenniferlopezvevo
+* 3.265658478000001,kandee johnson
+* 3.256521868,sylvia gani
+* 3.256521868,renault sport
+* 3.2431780669999997,rm videos
+* 3.1825781919999994,sigridvevo
+* 3.1599779710000013,simon and martina
+* 3.159753855999999,christen dominique
+* 3.1126051939999995,jennxpenn
+* 3.1009330959999977,ladylike
+* 3.1009330959999977,cheeseandjamsandwich
+* 3.096716698999998,studiocanaluk
+* 3.096716698999998,mercedes-amg petronas motorsport
+* 3.096716698999998,keshavevo
+* 3.096716698999998,doddleoddle
+* 3.096716698999998,cmt
+* 3.096716698999998,5sosvevo
+* 3.053493837000002,teen vogue
+* 3.0339196200000003,liza koshy too
+* 2.991439077999998,markiplier
+* 2.9736829169999988,hydraulic press channel
+* 2.969281996999999,madelaine petsch
+* 2.928516144999999,how ridiculous
+* 2.9038552890000013,pointlessblogvlogs
+* 2.9038552890000013,clevver style
+* 2.8959775299999992,vh1
+* 2.8959775299999992,sadevevo
+* 2.8509348280000006,nowthis world
+* 2.8509348280000006,marshmello
+* 2.844746656999999,myharto
+* 2.8390448850000007,the action lab
+* 2.8361295020000012,zefrank1
+* 2.8202805869999987,wendover productions
+* 2.8202805869999987,inanna sarkis
+* 2.811392013000001,amc
+* 2.795492054000001,merrelltwins
+* 2.774307452999999,doctor mike
+* 2.7572134969999986,jelloapocalypse
+* 2.7368754920000002,samsmithworldvevo
+* 2.7187003199999995,selena gomez
+* 2.6764137389999996,lindsey stirling
+* 2.670844339999999,jason derulo
+* 2.6671089400000003,fueled by ramen
+* 2.6560305619999993,jerryrigeverything
+* 2.6560305619999993,cleveland cavaliers on cleveland.com
+* 2.654782784000001,impulse
+* 2.654782784000001,disney on broadway
+* 2.654563692000001,杰威爾音樂 jvr music
+* 2.654563692000001,new amsterdam
+* 2.6544073659999983,zaynvevo
+* 2.645040257999999,vat19
+* 2.645040257999999,theodd2sout
+* 2.645040257999999,davematthewsbandvevo
+* 2.633129274999999,joergsprave
+* 2.633129274999999,emmymadeinjapan
+* 2.6326335220000003,viralhog
+* 2.5988404430000003,cnet
+* 2.5988404430000003,cbs new york
+* 2.593807122999998,lisa eldridge
+* 2.593807122999998,foot locker
+* 2.579003699999999,kanye west - topic
+* 2.579003699999999,azzyland
+* 2.5643050330000023,jaiden animations
+* 2.553126240000001,johnmayervevo
+* 2.5484217639999995,simply nailogical
+* 2.543553023,zoella
+* 2.536638720000001,strange incident
+* 2.536638720000001,royal blood
+* 2.536638720000001,minuteearth
+* 2.4934376860000005,wthr
+* 2.4934376860000005,the official pokémon youtube channel
+* 2.445546065,mark rober
+* 2.442774098,u.s. navy
+* 2.4405210460000006,ted
+* 2.438021779999999,nickiminajatvevo
+* 2.428577412,whistle sports
+* 2.428577412,sugarlandvevo
+* 2.4189819100000007,backstreetboysvevo
+* 2.401076788,crashracing
+* 2.3978297160000013,dan and shay
+* 2.3830058000000003,sailor j
+* 2.3758968629999995,joey graceffa
+* 2.370509414999999,gabbie hanna
+* 2.3542796140000006,pbs eons
+* 2.354105284,inquirer.net
+* 2.354105284,bbc three
+* 2.331251796,pitbullvevo
+* 2.296818436000001,fifthharmonyvevo
+* 2.2697068160000002,matthewsantoro
+* 2.2584089500000006,buzzfeed nifty
+* 2.2348086099999995,kaplamino
+* 2.211399819999999,thesorrygirls
+* 2.211399819999999,cat man chris
+* 2.181527976000001,patrickstarrr
+* 2.1713481679999993,helpful vancouver vet
+* 2.1612667600000006,meghantrainorvevo
+* 2.1562222600000003,kim kardashian west
+* 2.1562222600000003,kaceymusgravesvevo
+* 2.1516573049999996,electroboom
+* 2.145920385000001,malumavevo
+* 2.1333658460000002,imaginedragonsvevo
+* 2.1333658460000002,chloexhallevevo
+* 2.1322649599999997,anthonypadilla
+* 2.1285650469999995,the real daytime
+* 2.1169866699999993,sr trailers and interviews
+* 2.1169866699999993,officialcharlixcx
+* 2.1169866699999993,liampaynevevo
+* 2.107546716,arianagrandevevo
+* 2.086814352,elleofthemills
+* 2.084335638,lip sync battle
+* 2.083785733000001,amazon studios
+* 2.0821305499999996,glam&gore
+* 2.0748571379999996,big marvel
+* 2.0568175660000003,talking kitty cat
+* 2.0568175660000003,sonic the hedgehog
+* 2.0568175660000003,self
+* 2.0568175660000003,ncaa march madness
+* 2.0568175660000003,lenarr young
+* 2.0568175660000003,league of legends
+* 2.0568175660000003,grb rally
+* 2.0511682600000007,camelsandfriends
+* 2.034781336999999,eva lunde bentley
+* 2.0264957080000006,sirah
+* 2.0264957080000006,nba on espn
+* 2.0264957080000006,hanson
+* 2.0264957080000006,frank may
+* 2.0264957080000006,eater
+* 2.0164813730000004,laura in the kitchen
+* 2.010861842999999,cole and marmalade
+* 2.0062185559999994,yes theory
+* 2.0062185559999994,the tommy edison experience
+* 2.0062185559999994,dreamcastle_629
+* 13.862450268999993,wwe
+* 11.656734740000013,life noggin
+* 10.641814926000006,masslive
+* 10.641814926000006,collegehumor
+* 10.641814926000006,chris stuckmann
+* 10.417818552000002,safiya nygaard
+* 10.378127338000006,the king of random
+* 10.378127338000006,carla resendiz
+* 10.250802500000017,scishow
+* 10.02903252299998,sport hub
+* 10.02903252299998,nikkietutorials
+* 10.02903252299998,nfl world
+* 1.9955442639999998,morgan adams
+* 1.9479560669999998,tyler, the creator
+* 1.9479560669999998,bbc sport
+* 1.9435644080000003,romanatwoodvlogs
+* 1.9435644080000003,kris harbour
+* 1.9435644080000003,jbalvinvevo
+* 1.9370183099999998,nikita dragun
+* 1.9320997380000005,alishamarie
+* 1.9274773439999993,syracuse orange
+* 1.9274773439999993,lifetime
+* 1.9274773439999993,filmwebtv
+* 1.9254366330000003,mylifeaseva
+* 1.919041,didyouknowgaming?
+* 1.917539201000001,videogamedunkey
+* 1.9025844200000008,battle universe
+* 1.898591625,rudimental
+* 1.8879342740000002,sidemen
+* 1.8787229600000004,philip defranco
+* 1.8672589519999996,jasonaldeanvevo
+* 1.8263057500000006,the talk
+* 1.8210667199999997,celinedionvevo
+* 1.8205921299999996,trailers promos teasers
+* 1.8205921299999996,the telegraph
+* 1.8205921299999996,kylie cosmetics
+* 1.8152853979999992,enriqueiglesiasvevo
+* 1.8146350999999998,presstube
+* 1.80544188,kbskpop
+* 1.80544188,chloe x halle
+* 1.80544188,camila cabello
+* 1.80544188,ben actis
+* 1.7985951279999999,cody'sblab
+* 1.7627332499999997,newsflare
+* 1.7627332499999997,adelainemorin
+* 1.7595185430000009,ladygagavevo
+* 1.7352367059999998,colleen vlogs
+* 1.7316005779999997,feast of fiction
+* 1.7276608009999996,kayley melissa
+* 1.7250483099999996,jake paul
+* 1.69353683,natalies outlet
+* 1.6896428610000007,prozd
+* 1.6691135449999996,thegameawards
+* 1.6691135449999996,morezoella
+* 1.6691135449999996,migosvevo
+* 1.6606236260000002,mental floss
+* 1.6430286140000003,i like to make stuff
+* 1.641681556,hope for paws - official rescue channel
+* 1.6364174200000001,connorfranta
+* 1.6348555799999995,john mayer
+* 1.6272734580000001,rob scallon
+* 1.6262455209999995,today i found out
+* 1.6262455209999995,oceana
+* 1.6197359200000008,popcorn with peter travers
+* 1.6197359200000008,bangtantv
+* 1.6197359200000008,adult swim uk
+* 1.6117819779999993,tonibraxtonvevo
+* 1.6080686270000002,childishgambinovevo
+* 1.5985986549999995,butch hartman
+* 1.5985174999999998,foundflix
+* 1.5963482000000007,watertower music
+* 1.5960327490000001,molly burke
+* 1.5960327490000001,grandpa kitchen
+* 1.5926854760000002,antscanada
+* 1.587306397,cracked
+* 1.5849804979999997,howtobasic
+* 1.5849417119999998,the warp zone
+* 1.58343611,nicol concilio
+* 1.58343611,gamelovercommercials
+* 1.58343611,east idaho news
+* 1.58343611,bleachersvevo
+* 1.5717460579999998,pitch perfect
+* 1.5717460579999998,harry
+* 1.570398975,kiss fm uk
+* 1.570398975,karina garcia
+* 1.570398975,crashcourse
+* 1.570398975,bloomberg politics
+* 1.5676016759999998,australian open tv
+* 1.5534792659999996,how to make everything
+* 1.5530746459999998,bebe rexha
+* 1.5331474999999999,squirrel monkey
+* 1.5331474999999999,asian boss
+* 1.5315894140000001,mayim bialik
+* 1.5198494899999997,mean girls on broadway
+* 1.5198494899999997,global news
+* 1.5138870700000004,peter mckinnon
+* 1.5009324160000002,waterjet channel
+* 1.497169605,catcreature
+* 1.4958526499999996,hometalk
+* 1.491247397,wall street journal
+* 1.491247397,olympic
+* 1.491247397,look mum no computer
+* 1.4798933460000003,liverpool fc
+* 1.4798933460000003,espn uk
+* 1.4798933460000003,blayze999
+* 1.4763934619999999,smartereveryday
+* 1.4731919450000004,kyle jennermann
+* 1.47000346,byrontalbott
+* 1.46401562,google developers
+* 1.4599229839999992,ryan northover
+* 1.4599229839999992,nbc
+* 1.438341134,primitive survival tool
+* 1.4357176700000003,zach simmons
+* 1.4357176700000003,masterclass
+* 1.4357176700000003,iamannemarie
+* 1.4323165940000007,peter brown
+* 1.4323165940000007,bellathornevevo
+* 1.4184462999999994,abc television network
+* 1.407399919,ihascupquake
+* 1.4054823840000001,the bella twins
+* 1.4041333769999995,davehax
+* 1.4019140609999998,access
+* 1.3897909199999998,gustawny
+* 1.3790637800000003,dantdm
+* 1.3717746750000004,deep look
+* 1.37136272,shaytards
+* 1.37136272,pbs space time
+* 1.368070605,sister circle live
+* 1.3664653799999997,food insider
+* 1.3603582900000002,omaze
+* 1.3603582900000002,christopher davis
+* 1.3536967900000003,mustardvevo
+* 1.33304556,my virgin kitchen
+* 1.31932568,nicole guerriero
+* 1.3182589060000005,h o n n e
+* 1.3182589060000005,eh bee family
+* 1.2951402,gorillaz
+* 1.2951402,erika costell
+* 1.2951402,america's got talent
+* 1.2936248250000004,standupmaths
+* 1.2922219180000005,jolly
+* 1.2907123710000004,clicknetwork
+* 1.2848116499999997,charlie corts
+* 1.28163867,wouldn't change a thing
+* 1.28163867,g-eazy
+* 1.28163867,cjenmmusic official
+* 1.2783124099999998,the grand tour
+* 1.2750902660000005,matthias wandel
+* 1.2627854720000002,brettyoungvevo
+* 1.26036312,gordon ramsay
+* 1.259880064,5-minute crafts
+* 1.25867862,philadelphia 76ers
+* 1.25867862,dua lipa
+* 1.2520755410000002,h3 podcast highlights
+* 1.2485414900000005,zebra corner
+* 1.2485414900000005,topic
+* 1.2485414900000005,ovo sound
+* 1.2485414900000005,jayrockvevo
+* 1.2485414900000005,bill gates
+* 1.24319243,никита ордынский
+* 1.24097554,crossfit®
+* 1.2358473599999997,mlive
+* 1.2298206,jess glynne
+* 1.2254368469999997,ufc - ultimate fighting championship
+* 1.2254368469999997,olanrogers
+* 1.222719771,the joint forces channel
+* 1.222719771,bethany wilhelm
+* 1.2207695699999996,own
+* 1.2207695699999996,jason mraz
+* 1.2206653399999996,major lazer
+* 1.2202451399999998,camilacabellovevo
+* 1.2188442569999998,merrell twins live
+* 1.213442048,macklemore llc
+* 1.2017088599999997,fleur deforce
+* 1.1959049200000003,chubbyemu
+* 1.19123854,ellie and jared
+* 1.1833431600000002,recanto ecológico rio da prata
+* 1.1833431600000002,jake roper
+* 1.1833431600000002,billy graham evangelistic association
+* 1.1833431600000002,bafta
+* 1.1825257199999997,seonkyoung longest
+* 1.1825257199999997,freedom of the press foundation
+* 1.1713694359999995,fiftyshadesvevo
+* 1.1713694359999995,cbs evening news
+* 1.1713694359999995,amber liu
+* 1.167398128,beckygvevo
+* 1.1637971420000004,superwomanvlogs
+* 1.1586863940000003,lucas
+* 1.1568086150000005,kkandbabyj
+* 1.1568086150000005,billions
+* 1.155213608,sprinkleofglitter
+* 1.155213608,sam sheffer
+* 1.1464288320000002,galantis
+* 1.1374496849999998,physics girl
+* 1.1369487639999996,nickyjamtv
+* 1.1335775600000002,one list , one life
+* 1.1335775600000002,google
+* 1.1280877500000002,roadsideflix
+* 1.126328828,reallifelore
+* 1.1231229960000002,mason ramsey
+* 1.1227935939999998,greatscott!
+* 1.1149228480000004,formula 1
+* 1.1144921230000002,ranz kyle
+* 1.1135430900000003,philly d
+* 1.1135430900000003,animalwised
+* 1.1126354300000003,alissa ashley
+* 1.1100441299999997,nerdist
+* 1.1039895839999996,the sims
+* 1.1013909480000001,harper's bazaar
+* 1.080661965,carter sharer
+* 1.08058734,tanner fox
+* 1.08058734,iamauroravevo
+* 1.08058734,beats 1 on apple music
+* 1.07394962,sugar pine 7
+* 1.07394962,juju smith-schuster
+* 1.0726841860000003,prettymuchvevo
+* 1.0645157199999997,starz
+* 1.0635586199999998,shibsibs
+* 1.0635586199999998,bishopbriggsvevo
+* 1.0624822699999998,turbotax
+* 1.0624822699999998,jalopnik
+* 1.057066985,snoopdoggvevo
+* 1.055673632,djsnakevevo
+* 1.055673632,björk
+* 1.054116262,ten second songs
+* 1.0500634959999997,azealiabanksvevo
+* 1.0387404319999998,leroy sanchez
+* 1.031798884,dr. sandra lee (aka dr. pimple popper)
+* 1.02163705,motion station
+* 1.02163705,mercury news
+* 1.02163705,billieeilishvevo
+* 1.016610602,amazingphil
+* 1.0135128720000002,engineering explained
+* 1.003659,shawn mendes
+* 0.986238968,warped perception
+* 0.984952156,haileesteinfeldvevo
+* 0.9835818600000004,film independent
+* 0.98302668,annapurna channel
+* 0.979237958,mamrie hart
+* 0.9773618319999999,patricia bright
+* 0.9711070549999997,superfruit
+* 0.9608313400000001,scott manley
+* 0.9552089,vsauce2
+* 0.9552089,thekillersvevo
+* 0.9552089,lisbug
+* 0.9552089,alabama crimson tide on al.com
+* 0.9505766400000001,roxette arisa
+* 0.9505766400000001,pick up limes
+* 0.9505766400000001,johnnewmanvevo
+* 0.9505766400000001,ausantarctic
+* 0.926249335,dave lee
+* 0.91976356,wildturkeybourbon
+* 0.91976356,hudsonunionsociety
+* 0.9180345900000001,ワーナー ブラザース 公式チャンネル
+* 0.9176055699999998,business insider uk
+* 0.9155118599999998,rock me, joey santiago.
+* 0.9110783540000001,wusa9
+* 0.908210594,alesso
+* 0.9055069400000001,johnny jansen
