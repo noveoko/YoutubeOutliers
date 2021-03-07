@@ -4,7 +4,7 @@ Data collection, cleaning, and model training
 
 ## The Potential Fake Guru List
 
-[potential_fake_gurus.txt](potential_fake_gurus.txt)
+[the list](sorted.md)
 
 ## Life Hacks
 
