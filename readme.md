@@ -6,6 +6,10 @@ Data collection, cleaning, and model training
 
 [the list](sorted.md)
 
+## Every PERSON mentioned across all CoffeeZilla episodes
+
+[names mentioned on CoffeeZilla](PERSON entities from CoffeeZilla.txt)
+
 ## Life Hacks
 
 Keywords to use to find fake gurus fast
