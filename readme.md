@@ -12,7 +12,7 @@ The following is a list of Youtube creator channels that may or may not match th
 
 >>> [the list](sorted.md)
 
-## Every PERSON mentioned across all CoffeeZilla episodes
+## PERSON entities on CoffeeZilla episodes
 
 At first I thought there would be a wealth of names on the CoffeeZilla playlists. I used SPACY to try to extract PERSON entities but it's not very good and extracted many random names and mistook name of non-persons for PERSON type. So this is a work in progress for sure. Perhaps such a list could be used in the future to improve the model.
 
