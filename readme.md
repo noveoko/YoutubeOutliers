@@ -8,7 +8,7 @@ Data collection, cleaning, and model training
 
 ## Every PERSON mentioned across all CoffeeZilla episodes
 
-[names mentioned on CoffeeZilla](PERSON entities from CoffeeZilla.txt)
+[names mentioned on CoffeeZilla]("PERSON entities from CoffeeZilla.txt")
 
 ## Life Hacks
 
