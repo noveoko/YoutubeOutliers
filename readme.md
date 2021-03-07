@@ -1,4 +1,4 @@
-## Fake Guru Detection 
+## Discover Fake Gurus and Other Youtube "Niche" Creators
 
 Data collection, cleaning, and model training
 
