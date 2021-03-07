@@ -1,4 +1,4 @@
-## Youtube Outliers
+## Youtube Outliers 😈🤑🤡🤬
 
 ### Discover Fake Gurus and Other Youtube "Niche" Creators
 
