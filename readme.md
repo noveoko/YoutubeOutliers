@@ -1,4 +1,6 @@
-## Discover Fake Gurus and Other Youtube "Niche" Creators
+## Youtube Outliers
+
+### Discover Fake Gurus and Other Youtube "Niche" Creators
 
 Data collection, cleaning, and model training
 
