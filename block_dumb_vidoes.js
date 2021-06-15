@@ -1,5 +1,5 @@
 
-const blocked = ['reacting to','react to','win','$','insane']
+const blocked = ['reacting to','react to','win','$','insane','how to']
 
 function hideVideos(blocked){
   let content = document.getElementById("contents");
