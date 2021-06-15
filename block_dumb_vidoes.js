@@ -7,7 +7,7 @@ function hideVideos(blocked){
   videos.forEach(video=>{
     let delete_me = false
     blocked.forEach(word=>{
-      if(video[0].querySelector("#video-title").textContent.toLowerCase().includes(word)){
+      if(video.querySelector("#video-title").textContent.toLowerCase().includes(word)){
         delete_me = true
       }
     })
