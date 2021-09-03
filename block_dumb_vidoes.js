@@ -1,5 +1,5 @@
 
-const blocked = ['life as a','scammer','killer','destroyed','amazing','reacting to','react to','win','$','insane','how to','how does','why does','what does','believe in','snl']
+const blocked = ['my most','death',"world's",'life as a','scammer','killer','destroyed','amazing','reacting to','react to','win','$','insane','how to','how does','why does','what does','believe in','snl']
 
 function hideVideos(blocked){
   let content = document.getElementById("contents");
